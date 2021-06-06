@@ -13,4 +13,8 @@
     <ProjectReference Include="..\Affirm.Challenge.LoanBalance\Affirm.Challenge.LoanBalance.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="output\small\" />
+  </ItemGroup>
+
 </Project>
